@@ -1,0 +1,22 @@
+1. Install Terraform in Windows [https://www.terraform.io/downloads]
+    Create Binary folder in C drive -> Paste Terraform binary file here .exe
+    Advanced System Settings -> Environment variables -> Path -> edit -> browse -> select binary folder
+    Relaunch command prompt
+    $ terraform
+
+2. Install on Linux {Direct commands are available}
+
+3. Install Vs code
+   Install Extension  - Terraform
+
+4. Create New User in AWS  - permission -Administration Access
+
+   click on User - Security credential - Generate access key - CLI - Next -Create
+
+5. Install AWS CLI in Machine
+
+6. aws configure
+
+7. Plugin will store inside .terraform folder - providers folder - registry.terraform.io folder - hashicorp folder -aws folder - 4.0.0 folde - 
+
+
